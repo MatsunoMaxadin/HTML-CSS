@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, blue, orange,green);
+    font-family: "Comic Sans MS";
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+p{
+    color: black;
+
+
+}
+
+a{
+    color: red
+}
